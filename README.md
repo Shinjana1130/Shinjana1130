@@ -1,49 +1,159 @@
 
-# Hi, I'm Shinjana G S 👋
+<h1 align="center">Hi 👋, I'm Shinjana G S</h1>
 
-### 💻 Computer Science Engineering Graduate | Full Stack Developer | AI/ML Enthusiast
+<h3 align="center">Computer Science Engineering Student | Full Stack Developer | AI/ML Enthusiast</h3>
 
-- 🌱 Currently learning Full Stack Development and AI/ML
-- 💡 Interested in Java, React, Python, and web development
-- 🚀 Working on TrackMyStreet – AI-Based Road Damage Detection
-- 🎯 Focused on improving my problem-solving and coding skills
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;AI+and+Machine+Learning+Enthusiast;Java+%7C+Python+%7C+React;Building+Real-World+Projects" alt="Typing SVG" />
+</p>
 
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/sharadhirao5)
-
-### 🛠️ Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharadhirao5&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharadhirao5&layout=compact&theme=tokyonight)
-
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sharadhirao5&theme=tokyonight)
-
-### 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=sharadhirao5&theme=tokyonight&no-frame=true&row=1)
-
-### 🚀 Featured Projects
-
-- **TrackMyStreet** – AI-based road damage detection and geo-mapped monitoring system.
-- **Smart Agriculture** – Crop recommendation using machine learning.
-- **Hospital Management System** – Web application using Flask and SQLite.
+<p align="center">
+  <a href="https://github.com/sharadhis">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shinjana-g-s-62a9782b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:shinjanags@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
-⭐ Thanks for visiting my profile!
+
+## 👩‍💻 About Me
+
+- 🎓 Computer Science Engineering student at **SDM Institute of Technology, Ujire**
+- 💻 Interested in Full Stack Development, Artificial Intelligence, and Machine Learning
+- 🌱 Currently improving my skills in Java, Python, React, and backend development
+- 🤖 Passionate about developing AI-powered applications and solving real-world problems
+- 🚀 Experienced in building academic projects using web technologies, APIs, and machine learning
+- 🎯 Goal: To become a skilled software developer and contribute to innovative technology solutions
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+</p>
+
+### Backend and Databases
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### AI, Machine Learning and Tools
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🩺 AI-Based Women's Health Risk Screening System
+
+- Developed a web application to estimate PCOS and endometriosis risk based on user-reported symptoms.
+- Provides risk levels and personalized lifestyle suggestions.
+- Designed to support awareness and screening, not replace professional medical diagnosis.
+- **Tech Stack:** React, Vite, JavaScript, Node.js, Express.js, Ollama, Llama 3.2
+
+### 📧 AI-Based Email Intent Classification and Smart Routing System
+
+- Developed an AI-powered system to classify emails automatically.
+- Categorizes emails into Complaint, Enquiry, Request, Feedback, Application, or Other.
+- Uses confidence scores to support email prioritization and departmental routing.
+- **Tech Stack:** React, Node.js, Express.js, Python, Pandas, NumPy, Scikit-learn, TF-IDF, Logistic Regression
+
+### 🛒 ProxyBuy AI
+
+- Developed an AI-powered smart shopping and price comparison application.
+- Uses location services to identify nearby shops and present product information.
+- Helps users compare estimated prices and make cost-effective purchasing decisions.
+- **Tech Stack:** HTML, CSS, JavaScript, Python, Flask, MongoDB, Scikit-learn, TensorFlow
+
+---
+
+## 💼 Internship Experience
+
+- **Full Stack Web Development Intern — Chand Web Technology**
+  - Gained hands-on experience in designing and developing web applications.
+
+- **Web Development Intern — InternPe**
+  - Worked with HTML, CSS, JavaScript, responsive design, and web application development.
+
+---
+
+## 📜 Certifications and Courses
+
+- Java Programming Fundamentals — Infosys
+- Database and SQL — Infosys
+- Web Design Courses — Infosys
+- Employability Skills – JobReady — Wadhwani Foundation
+- AI Machine Learning Engineer — Reliance Foundation
+
+---
+
+## 🏆 Activities and Achievements
+
+- Smart India Hackathon 2025
+- She Innovates Hackathon 2025
+- Mini Anveshana 2025
+- Internship Common Aptitude Test — iStudio
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sharadhis&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharadhis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sharadhis&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sharadhis&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/sharadhis">GitHub</a> •
+  <a href="https://www.linkedin.com/in/shinjana-g-s-62a9782b9/">LinkedIn</a> •
+  <a href="mailto:shinjanags@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
