@@ -149,7 +149,7 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/sharadhis">GitHub</a> •
+  <a href="https://github.com/Shinjana1130">GitHub</a> •
   <a href="https://www.linkedin.com/in/shinjana-g-s-62a9782b9/">LinkedIn</a> •
   <a href="mailto:shinjanags@gmail.com">Email</a>
 </p>
