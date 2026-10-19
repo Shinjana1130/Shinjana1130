@@ -4,11 +4,11 @@
 <h3 align="center">Computer Science Engineering Student | Full Stack Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;AI+and+Machine+Learning+Enthusiast;Java+%7C+Python+%7C+React;Building+Real-World+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;AI+and+Machine+Learning+Enthusiast;Java+%7C+Python+%7C+React;Building+Real-World+Projects" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/sharadhis">
+  <a href="https://github.com/Shinjana1130">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/shinjana-g-s-62a9782b9/">
@@ -23,86 +23,93 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Computer Science Engineering student at **SDM Institute of Technology, Ujire**
-- 💻 Interested in Full Stack Development, Artificial Intelligence, and Machine Learning
-- 🌱 Currently improving my skills in Java, Python, React, and backend development
-- 🤖 Passionate about developing AI-powered applications and solving real-world problems
-- 🚀 Experienced in building academic projects using web technologies, APIs, and machine learning
-- 🎯 Goal: To become a skilled software developer and contribute to innovative technology solutions
+- 🎓 Computer Science Engineering student at SDM Institute of Technology, Ujire.
+- 💻 Interested in Full Stack Development, Artificial Intelligence, and Machine Learning.
+- 🌱 Continuously learning Java, Python, React, and backend development.
+- 🤖 Passionate about building AI-powered applications and solving real-world problems.
+- 🚀 Experienced in developing academic projects using web technologies, APIs, and machine learning.
+- 🎯 Aspiring software developer focused on continuous learning and innovation.
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### Programming Languages
+
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 ### Frontend Development
+
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 </p>
 
 ### Backend and Databases
+
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
 ### AI, Machine Learning and Tools
+
 <p>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🩺 AI-Based Women's Health Risk Screening System
+### 🩺 1. AI-Based Women's Health Risk Screening System
 
-- Developed a web application to estimate PCOS and endometriosis risk based on user-reported symptoms.
+- Estimates PCOS and endometriosis risk based on user-reported symptoms.
 - Provides risk levels and personalized lifestyle suggestions.
 - Designed to support awareness and screening, not replace professional medical diagnosis.
-- **Tech Stack:** React, Vite, JavaScript, Node.js, Express.js, Ollama, Llama 3.2
 
-### 📧 AI-Based Email Intent Classification and Smart Routing System
+**Tech Stack:** React.js, Vite, JavaScript, Node.js, Express.js, Ollama, Llama 3.2
 
-- Developed an AI-powered system to classify emails automatically.
-- Categorizes emails into Complaint, Enquiry, Request, Feedback, Application, or Other.
-- Uses confidence scores to support email prioritization and departmental routing.
-- **Tech Stack:** React, Node.js, Express.js, Python, Pandas, NumPy, Scikit-learn, TF-IDF, Logistic Regression
+### 📧 2. AI-Based Email Intent Classification and Smart Routing System
 
-### 🛒 ProxyBuy AI
+- Automatically classifies emails into Complaint, Enquiry, Request, Feedback, Application, or Other.
+- Uses machine learning to predict email intent and provide confidence scores.
+- Supports email prioritization and routing to the appropriate department.
 
-- Developed an AI-powered smart shopping and price comparison application.
-- Uses location services to identify nearby shops and present product information.
+**Tech Stack:** React.js, Node.js, Express.js, Python, Pandas, NumPy, Scikit-learn, TF-IDF, Logistic Regression
+
+### 🛒 3. ProxyBuy AI
+
+- AI-powered smart shopping and price comparison web application.
+- Uses location services to identify nearby shops and display product information.
 - Helps users compare estimated prices and make cost-effective purchasing decisions.
-- **Tech Stack:** HTML, CSS, JavaScript, Python, Flask, MongoDB, Scikit-learn, TensorFlow
+
+**Tech Stack:** HTML, CSS, JavaScript, Python, Flask, MongoDB, Scikit-learn, TensorFlow
 
 ---
 
 ## 💼 Internship Experience
 
-- **Full Stack Web Development Intern — Chand Web Technology**
-  - Gained hands-on experience in designing and developing web applications.
+**Full Stack Web Development Intern — Chand Web Technology**
+- Gained practical experience in designing and developing web applications.
 
-- **Web Development Intern — InternPe**
-  - Worked with HTML, CSS, JavaScript, responsive design, and web application development.
+**Web Development Intern — InternPe**
+- Worked with HTML, CSS, JavaScript, responsive design, and web application development.
 
 ---
 
@@ -128,12 +135,12 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sharadhis&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharadhis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Shinjana1130&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinjana1130&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sharadhis&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Shinjana1130&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
@@ -141,7 +148,7 @@
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sharadhis&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Shinjana1130&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
